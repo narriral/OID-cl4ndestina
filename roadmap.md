@@ -18,7 +18,7 @@ The infrastructure documentation project aims to provide a foundation for anyone
 - [ ] Separate and analyse the results of the interviews
 - [ ] Write each session of the OID
 
-## Develop the Plataform
-- [ ] Decide which plataform to use
-- [ ] Design the plataform (make it beautiful and fun!)
+## Develop the Platform
+- [ ] Decide which platform to use
+- [ ] Design the platform (make it beautiful and fun!)
 - [ ] Release
