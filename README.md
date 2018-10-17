@@ -7,5 +7,11 @@ To build this platform, we are interviewing some sysadmin and asking them what m
 
 We are going to show the preliminary results of our research at MozFest 2018 in London this year. Show up and know how to contribute.
 
+* [What are we doing and why?](#what-are-we-doing-and-why)
+* [Who are we?](#who-am-we)
+* [What do we need?](#what-do-we-need)
+* [How can you get involved?](#How-ca-you-get-involved)
+* [Get in touch](#get-in-touch)
+
 Do you have sugestions? Do you want to contribute?
 Please, don't hesitate! Leave a comment and be contact.
